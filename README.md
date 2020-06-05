@@ -1,8 +1,7 @@
 Text for post in https://www.reddit.com/r/dataisbeautiful
 
 Data used:
-MeteoSwiss. Area-mean temperatures of Switzerland. 
-  Northern Switzerland Low, DOI: 10.18751/Climate/Timeseries/CHTM/1.1
+- MeteoSwiss. Area-mean temperatures of Switzerland. Northern Switzerland Low, DOI: 10.18751/Climate/Timeseries/CHTM/1.1
 Tools used:
 - Python \w pandas, matplotlib
 - Shotcut
