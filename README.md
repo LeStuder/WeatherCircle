@@ -3,6 +3,9 @@ Text for post in https://www.reddit.com/r/dataisbeautiful
 Data used:
 MeteoSwiss. Area-mean temperatures of Switzerland. 
   Northern Switzerland Low, DOI: 10.18751/Climate/Timeseries/CHTM/1.1
+Tools used:
+- Python \w pandas, matplotlib
+- Shotcut
 
 This animation shows how the temperatures deviate from the mean in the northern part of Switzerland since 1864 up until now.
 As you can see, the newer rings are further out, showing how climate-change affected temperatures over time.
