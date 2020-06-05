@@ -13,7 +13,7 @@ Another thing to notice is February 1954 where throughout most of Europe tempera
 
 This is my very first project with programming python.
 I used pandas to rearrange the data and calculate the deviations.
-After this, I used matplotlib to plot every individual year on a figure and save them each as png.
+After this, I used matplotlib to plot every individual yeae and save them each as png.
 With Shotcut I stuck together all frames to make the clip you're seeing.
 
 All in all, it took me around 30 hours to write no more than 2 A4 sheets of code but it was worth the journey.
